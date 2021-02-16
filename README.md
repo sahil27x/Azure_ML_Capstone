@@ -77,7 +77,7 @@ The dataset is accessed directly from github using Azure's [TabularDatasetFactor
 ![Web Service](snapshots/web-service.png)
 
 ## Screen Recording
-<a href=""> Working of the deployed model </a>
+<a href="https://youtu.be/e5Kyd_r_ZHM"> Working of the deployed model </a>
 
 ## Standout Suggestions
 <p>In this deployment I have enabled <b>Application Insight</b> which helps in logging and monitoring of web service and its related details.</p>
